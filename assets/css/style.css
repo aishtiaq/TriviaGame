@@ -1,0 +1,32 @@
+body {
+    background-image: url(../images/bg.jpg);
+  
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.container, .jumbotron {
+    background-color: #47c5c4;
+}
+
+h1 {
+    font-size: 96px;
+}
+
+#start {
+    font-size: 44px;
+    background-color: #9c9d29;
+    box-shadow: none;
+    width: 300px;
+    border: 1px solid black;
+}
+
+#form {
+    font-size: 24px;
+}
+
+.results {
+    font-size: 44px;
+}
